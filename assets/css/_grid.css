@@ -3,6 +3,11 @@
   margin: 0 auto;
 }
 
+.container-large {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -13,6 +18,11 @@
 .column {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+.flex-fill {
+  flex: 1 0 0;
+  max-width: 100%;
 }
 
 .justify-between {
