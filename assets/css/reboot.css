@@ -1,0 +1,40 @@
+* {
+  outline: none;
+  box-sizing: border-box;
+}
+
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+button {
+  border: none;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+figure {
+  margin: 0;
+}
