@@ -14,6 +14,7 @@ button,
 }
 
 .white-button {
+  font-size: 16px;
   font-weight: 900;
   background-color: #fff;
   color: #212353;
@@ -21,6 +22,15 @@ button,
 }
 
 .purple-button {
+  font-size: 18px;
+  font-weight: 900;
   background-color: #9c69e2;
   color: #fff;
+}
+
+.pink-button {
+  background-color: #f063b8;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 900;
 }
