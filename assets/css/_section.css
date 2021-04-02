@@ -28,6 +28,7 @@
   }
 
   /* Pink Section */
+  .features,
   .pink-section {
     margin-bottom: 150px;
   }
@@ -118,8 +119,8 @@
 
 .features .card {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
+  flex-wrap: wrap;
   padding-top: 50px;
   padding-bottom: 30px;
 }
