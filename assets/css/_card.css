@@ -1,3 +1,7 @@
+.card {
+  position: relative;
+}
+
 .card .card-header {
   font-size: 24px;
   margin-bottom: 20px;

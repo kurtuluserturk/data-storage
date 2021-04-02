@@ -47,7 +47,7 @@
     margin: 0 auto;
   }
 
-  .features .card:before {
+  .features .card::before {
     content: "";
     display: block;
     background-image: url("../img/green-background.svg");
