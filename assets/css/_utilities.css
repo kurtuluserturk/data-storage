@@ -10,6 +10,22 @@
   text-align: right;
 }
 
+.text-white {
+  color: #fff;
+}
+
+.font-size-40 {
+  font-size: 40px;
+}
+
+.font-weight-700 {
+  font-weight: 700;
+}
+
 .margin-bottom-30 {
   margin-bottom: 30px;
+}
+
+.margin-bottom-100 {
+  margin-bottom: 100px;
 }
