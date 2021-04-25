@@ -45,3 +45,14 @@ p {
 figure {
   margin: 0;
 }
+
+@media screen and (max-width: 1024px) {
+  img {
+    display: block;
+    max-width: 100%;
+  }
+
+  section {
+    text-align: center;
+  }
+}
