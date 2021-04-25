@@ -2,6 +2,7 @@ button,
 .button {
   border-radius: 50px;
   padding: 15px 25px;
+  cursor: pointer;
 }
 
 .icon-button {
